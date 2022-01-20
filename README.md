@@ -1,12 +1,8 @@
 
 ## Content/Apps/Games Creator
-
-<a href="https://play.google.com/store/apps/dev?id=8534935420746865475" target="_blank">
-  <img src="https://github.com/saltario/saltario/blob/main/assets/google_play.png" alt="GooglePlay" width="180"/>
-</a>
+[![Google Play](https://img.shields.io/badge/-Google%20Play-090909?style=for-the-badge&logo=GooglePlay&logoColor=00DB9B)](https://play.google.com/store/apps/dev?id=8534935420746865475/)
 
 ### Languages and Tools:
-
 ![Flutter](https://img.shields.io/badge/Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
 ![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
