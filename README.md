@@ -1,8 +1,8 @@
 
 ## Content/Apps/Games Creator
 
-<a href="https://play.google.com/store/apps/dev?id=7235693910501061926" target="_blank">
-  <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/google_play.png" alt="GooglePlay" width="180"/>
+<a href="https://play.google.com/store/apps/dev?id=8534935420746865475" target="_blank">
+  <img src="https://github.com/saltario/saltario/blob/main/assets/google_play.png" alt="GooglePlay" width="180"/>
 </a>
 
 ### Languages and Tools:
@@ -13,10 +13,11 @@
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=E69323)
 ![Android](https://img.shields.io/badge/-Android-090909?style=for-the-badge&logo=Android&logoColor=33D92E)
 ![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=Unity&logoColor=00000)
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=SQL&logoColor=00000)
 ![1C](https://img.shields.io/badge/-1C-090909?style=for-the-badge&logo=1c&logoColor=00000)
 
 ### Follow Me:
-[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/alexeyshpavdaMain)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/the_cybermania)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/alexeyshpavda)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/alexeyshpavda)
+[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCOrpFohs9Gnm17r2YjNvVzg/)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/saltario)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/the.red.pro)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/vadimshaulsky)
