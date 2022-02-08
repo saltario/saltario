@@ -14,7 +14,7 @@
 ![WordPress](https://img.shields.io/badge/-WordPress-090909?style=for-the-badge&logo=WordPress&logoColor=00000)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=00000)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=SQL&logoColor=00000)
-![1C](https://img.shields.io/badge/-1C Enterprice-090909?style=for-the-badge&logo=1c&logoColor=00000)
+![1C](https://img.shields.io/badge/-1C-090909?style=for-the-badge&logo=1c&logoColor=00000)
 
 ### Follow Me:
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCOrpFohs9Gnm17r2YjNvVzg/)
