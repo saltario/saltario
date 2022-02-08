@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/saltario/saltario/main/resources/Hi.gif" height="32"/></h1>
 
 <h3 align="center">Developer of mobile applications and games</h3>
-<h3 align="center">Founder of <a href="http://saltario.ru/" target="_blank">Saltatio Games</h3>
+<h3 align="center">Founder of <a href="http://saltario.ru/" target="_blank">Saltario Games</h3>
 
 <p align="center"><a href="https://play.google.com/store/apps/dev?id=8534935420746865475">
 <img src="https://img.shields.io/badge/-Google%20Play-090909?style=for-the-badge&logo=GooglePlay&logoColor=00DB9B" alt="альтернативный текст"></a></p>
