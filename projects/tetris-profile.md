@@ -8,7 +8,7 @@
 
  <!--Foot-->
 <h3 align="center">Developed by 
-    <a href="http://saltario.ru/" target="_blank">Saltario Games</a> 
+    <a href="http://saltario.ru/" target="_blank">Vadim Shaulskiy</a> 
 </h3>
 
 <h1></h1>
