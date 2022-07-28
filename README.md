@@ -23,7 +23,7 @@
   <!--Tools-->
 <h1 align="center">Tools and Languages<br><br>
     <img src="https://img.shields.io/badge/Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB" alt="Flutter">
-    <img src="https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB" alt="Dart">
+    <img src="https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB" alt="Dart"><br>
     <img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" alt="C++">
     <img src="https://img.shields.io/badge/-c%23-090909?style=for-the-badge&logo=csharp&logoColor=00000" alt="c">
     <img src="https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=Unity&logoColor=00000" alt="Unity">
